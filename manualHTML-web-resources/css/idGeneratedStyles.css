@@ -52,7 +52,7 @@ td.Basic-Table {
 p.Destaque {
 	color:#575756;
 	font-family:"Roboto Lt", sans-serif;
-	font-size:11px;
+	font-size:20px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:300;
@@ -116,12 +116,12 @@ p.Nota-de-rodap- {
 p.Subt-tulo {
 	color:#575756;
 	font-family:"Roboto Lt", sans-serif;
-	font-size:11px;
+	font-size:20px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:300;
 	line-height:1.182;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
 	margin-top:6px;
@@ -179,17 +179,17 @@ p.Texto-no-Sum-rio {
 	widows:1;
 }
 p.T-tulo-0 {
-	color:#ffffff;
+	color:#000000;
 	font-family:"Roboto Bk", sans-serif;
-	font-size:30px;
+	font-size:60px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -207,10 +207,10 @@ p.T-tulo-1 {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -229,10 +229,10 @@ p.T-tulo-1--unlisted- {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -251,10 +251,10 @@ p.T-tulo-2 {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -272,10 +272,10 @@ p.T-tulo-2--unlisted- {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -288,15 +288,15 @@ p.T-tulo-2--unlisted- {
 p.T-tulo-3 {
 	color:#000000;
 	font-family:"Roboto Cn", sans-serif;
-	font-size:15px;
+	font-size:25px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:bold;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -309,15 +309,15 @@ p.T-tulo-3 {
 p.T-tulo-3--unlisted- {
 	color:#000000;
 	font-family:"Roboto Cn", sans-serif;
-	font-size:15px;
+	font-size:25px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:bold;
 	line-height:1.2;
-	margin-bottom:0;
+	margin-bottom:1rem;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:3rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -338,7 +338,7 @@ p.T-tulos-no-Sum-rio {
 	margin-bottom:14px;
 	margin-left:0;
 	margin-right:0;
-	margin-top:0;
+	margin-top:2rem;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
